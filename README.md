@@ -9,5 +9,6 @@ I mostly work with Javascript as a backend language(Node) and my main stack is P
 - 👯 I’m looking to collaborate on any project that betters the community.
 - 💬 Ask me about anything Javascript and Python related.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-nshuti-71799715a/)
+- Codewars rank :[Jonathan_warrior](https://www.codewars.com/users/jonathan%20Nshuti)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can move my ears
