@@ -2,6 +2,9 @@
 
 My name is Jonathan Nshuti and I am a Fullstack Web Developer. I am open to jobs revolving around either Fullstack Web Development or Backend development. I am open to both onsite and remote opportunities.
 
+To me, the most important things in life are health and love.
+In my opinion, the finest universities in the world are exploration through travel and the pursuit of knowledge through reading.
+
 I mostly work with Javascript as a backend language(Node) and my main stack is PREN and my Database of choice is Postgres.I also enjoy writing Python(Django)
 
 - 🔭 I’m currently working on building more projects so as to be able to showcase my skills.
